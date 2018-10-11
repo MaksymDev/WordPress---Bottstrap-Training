@@ -1,2 +1,2 @@
-# WordPress---Bottstrap-Training
-WordPress - Bottstrap Training
+# wordpress-bootstrap
+
